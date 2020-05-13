@@ -3,7 +3,7 @@
 ## Homework
 * Homework03  
 
-Lennard-Jones potential v.s. force  
+MLP regression
 ![lj](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW1/LJ.png)  
 
 * Homework04  

@@ -3,17 +3,28 @@
 ## Homework
 * Homework03  
 
-Lennard-Jones potential v.s. force  
-![lj](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW1/LJ.png)  
+MLP regression  
+![MLP](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW3/scatter.PNG)  
 
 * Homework04  
 
-4*4*4 unit lattice Argon(FCC)  
-![lattice](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW2/fcc.PNG)  
+Comparison of loss  
+Focal_loss  
+![focal_loss](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW4/hw4.PNG)  
 
 * Homework05  
 
-Adding normal distribution velocity  
-![velocity](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW3/V.gif)  
+Modularity  
+Graph  
+![graph](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW5/graph.PNG)  
 
 * Homework06  
+Projectile motion  
+
+bayesian_search  
+![graph](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW6/bay.png)  
+
+Training processing   
+![loss](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW6/training.png)  
+
+Result  

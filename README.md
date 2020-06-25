@@ -27,4 +27,18 @@ bayesian_search
 Training processing   
 ![loss](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW6/training.png)  
 
-Result  
+* Homework07  
+
+Modularity  
+Clustering by the different distance   
+  
+![Clustering](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW7/compare.png)    
+   
+   
+   
+* Homework08  
+
+Island problem  
+Counting the island number with O(n) 
+  
+![island](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW7/compare.png)    

@@ -41,4 +41,4 @@ Clustering by the different distance
 Island problem  
 Counting the island number with O(n) 
   
-![island](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW7/compare.png)    
+![island](https://github.com/acctouhou/Machine-Learning-on-Material-Informatics/blob/master/HW/HW8/bigo.PNG)    
